@@ -241,26 +241,7 @@ namespace CastleGrimtol.Project
         Console.WriteLine("You dont have any items in your inventory.");
       }
 
-      // if (CurrentVictim.Inventory.Count < 1)
-      // {
-      //   Console.WriteLine("Your pockets are empty.");
-      // }
-      // else
-      // {
-      //   Console.WriteLine("You have a scroll of fireball!");
-      // }
-      //   foreach (Item a in CurrentVictim.Inventory)
-      //   {
-      //     Console.WriteLine("name =", a.Name);
-      //   }
-      //   Console.WriteLine(CurrentVictim.Inventory.Count);
-      //   Console.WriteLine("You have a Scroll of Fireball! Use it wisely.");
-      // }
-      // else
-      // {
-      //   Console.WriteLine(CurrentVictim.Inventory.Count);
-      //   Console.WriteLine("Your pockets are empty.");
-      // }
+
     }
 
 
